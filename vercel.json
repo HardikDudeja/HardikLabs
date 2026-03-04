@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/expense-tracker/privacy-policy",
+      "destination": "/privacy-policy/index.html"
+    },
+    {
+      "source": "/expense-tracker/privacy-policy/",
+      "destination": "/privacy-policy/index.html"
+    },
+    {
+      "source": "/expense-tracker/terms-of-service",
+      "destination": "/terms-of-service/index.html"
+    },
+    {
+      "source": "/expense-tracker/terms-of-service/",
+      "destination": "/terms-of-service/index.html"
+    }
+  ]
+}
